@@ -78,9 +78,18 @@ It's time to serve the translation!
 MDBOOK_BOOK__LANGUAGE=xx mdbook serve -d book/xx --open
 ```
 
+### (Optional) Add Git URL button
+
+This can be done simply by adding the line
+
+```
+git-repository-url = "https://github.com/joshichaitanya3/mdbook-translate-template"
+```
+
+under `[output.html]`.
 ### Deploying
 
-Similarly, you can build the book with translations by typing
+You can build the book with translations by typing
 
 ```
 MDBOOK_BOOK__LANGUAGE=xx mdbook build -d book/mr 
