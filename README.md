@@ -22,7 +22,7 @@ which will generate `book.toml`, `chapter_1.md`, `SUMMARY.md` and other necessar
 
 ### Get the Globe button 
 
-Why not start with the fun part --- getting the Globe button on your mdBook to toggle between languages! This is added by customizing the index.hbs file. As mentioned in the [mdBook manual](https://rust-lang.github.io/mdBook/format/theme/index.html), you can customize any of the default theme files by simply including your modified file in an appropriate directory in your mdBook. Here, we add our own index.hbs file under theme/index.hbs, and only modify it to add the button and the option for Marathi. See lines 173-213. These are picked from the several examples of internationalized mdBooks available on [mdbook-i18n-helpers](https://github.com/google/mdbook-i18n-helpers) GitHub page.
+Why not start with the fun part --- getting the Globe button on your mdBook to toggle between languages! This is added by customizing the index.hbs file. As mentioned in the [mdBook manual](https://rust-lang.github.io/mdBook/format/theme/index.html), you can customize any of the default theme files by simply including your modified file in an appropriate directory in your mdBook. Here, we add our own index.hbs file under theme/index.hbs, and only modify it to add the button and the option for Marathi. See lines [173-213](https://github.com/joshichaitanya3/mdbook-translate-template/blob/821126213591c615d3a807a974361aaa3abdb76e/theme/index.hbs#L173-L213). These are picked from the several examples of internationalized mdBooks available on [mdbook-i18n-helpers](https://github.com/google/mdbook-i18n-helpers) GitHub page.
 
 ### Customizing the behavior of the language picker button
 
