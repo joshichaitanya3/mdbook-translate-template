@@ -1,0 +1,5 @@
+book
+*.DS_STORE
+po/*.po~
+po/*.pot
+po/*.mo

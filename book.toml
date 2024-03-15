@@ -1,0 +1,12 @@
+[book]
+authors = ["Chaitanya Joshi"]
+language = "en"
+multilingual = false
+src = "src"
+title = "mdBook translate template"
+
+[output.html]
+additional-css = ["theme/css/language-picker.css"]
+
+[preprocessor.gettext]
+after = ["links"]

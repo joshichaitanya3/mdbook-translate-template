@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mdBook translate template\n"
+"POT-Creation-Date: 2024-03-15T00:09:13-04:00\n"
+"PO-Revision-Date: 2024-03-15 00:37-0400\n"
+"Last-Translator: Chaitanya Joshi <chaitanyajoshi.usa@gmail.com>\n"
+"Language-Team: Marathi <sshedmak@redhat.com>\n"
+"Language: mr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#: src/SUMMARY.md:1
+msgid "Summary"
+msgstr "सारांश"
+
+#: src/SUMMARY.md:3 src/chapter_1.md:1
+msgid "Chapter 1"
+msgstr "अध्याय १"
+
+#: src/chapter_1.md:3
+msgid "Hello world!"
+msgstr "विश्वाला नमस्कार!"
